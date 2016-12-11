@@ -1,0 +1,23 @@
+#main-text {
+	background-color: blue;
+	color: white;
+}
+
+#nav-list {
+	background-color: grey;
+	color: white;
+}
+
+li {
+	padding: 15px;
+}
+
+hr {
+	margin: 0px;
+}
+
+body { padding-top: 70px; }
+
+h2 {
+	margin-left: 20px;
+}
